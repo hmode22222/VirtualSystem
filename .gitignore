@@ -1,0 +1,23 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.cxx/
+local.properties
+
+# Build artifacts
+captures/
+.externalNativeBuild/
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db

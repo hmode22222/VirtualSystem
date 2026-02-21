@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Virtual System</string>
+    <string name="installed_apps">التطبيقات المثبتة</string>
+    <string name="virtual_apps">التطبيقات المعزولة</string>
+    <string name="search_hint">ابحث عن تطبيق...</string>
+    <string name="add_to_virtual">إضافة</string>
+    <string name="open">فتح</string>
+    <string name="remove">إزالة</string>
+</resources>
